@@ -1,4 +1,4 @@
-![menu.png](https://i.postimg.cc/xTch2MGp/menu.png)](https://postimg.cc/4mRBvKSp)
+![menu.png](https://i.postimg.cc/xTch2MGp/menu.png)
 
 # 🍽️ Python Restaurant Ordering System
 
