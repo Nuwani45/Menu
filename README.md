@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/xTch2MGp/menu.png)
+![Banner][![menu.png](https://i.postimg.cc/xTch2MGp/menu.png)](https://postimg.cc/4mRBvKSp)
 
 # 🍽️ Python Restaurant Ordering System
 
@@ -35,8 +35,7 @@ It helps in practicing core Python concepts such as loops, conditionals, diction
 
 ## 🛠️ Technologies Used
 
-- **Python 3** – Core programming language  
-- **Built-in modules only** – No external packages required  
+- **Python** – Core programming language  
 - **IDLE / Terminal** – Works in any Python shell or IDE  
 
 ---
